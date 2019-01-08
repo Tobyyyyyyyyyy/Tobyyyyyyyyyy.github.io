@@ -9,7 +9,7 @@
 
 ## 源码托管
 
-[源码链接](https://github.com/wt1098078873/Blog_Hexo)
+[源码链接](https://github.com/wt1098078873/BlogHexo)
 
 # 鸣谢
 * [Hexo](https://hexo.io/)
