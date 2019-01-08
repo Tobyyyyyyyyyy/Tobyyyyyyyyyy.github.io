@@ -5,7 +5,6 @@
 ## 托管平台
 
 * [Github](https://github.com/wt1098078873/wt1098078873.github.io)
-* [Coding](https://git.coding.net/IWyatt/IWyatt.cc.git)
 
 ## 源码托管
 
