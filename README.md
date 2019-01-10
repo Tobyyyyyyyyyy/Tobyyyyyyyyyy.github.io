@@ -12,6 +12,5 @@
 
 # 鸣谢
 * [Hexo](https://hexo.io/)
-* [forsigner](https://github.com/forsigner/fexo)
 * [NexT](https://github.com/theme-next/hexo-theme-next)
 * [Cloudflare](https://www.cloudflare.com)
