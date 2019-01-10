@@ -2,13 +2,13 @@
 
 [博客链接](https://iwyatt.cc)
 
-## 托管平台
+## 网站源码
 
-* [Github](https://github.com/wt1098078873/wt1098078873.github.io)
+* [Github](https://github.com/Tobyyyyyyyyyy/Tobyyyyyyyyyy.github.io)
 
-## 源码托管
+## 网站配置
 
-[源码链接](https://github.com/wt1098078873/BlogHexo)
+* [配置链接](https://github.com/Tobyyyyyyyyyy/BlogHexo)
 
 # 鸣谢
 * [Hexo](https://hexo.io/)
